@@ -1,0 +1,6 @@
+# Jupyter notebook
+.ipynb_checkpoints/
+
+# Datasets
+datasets/
+data/
